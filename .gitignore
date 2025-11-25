@@ -1,0 +1,10 @@
+
+backend/node_modules
+backend/config/env.js
+backend/.env
+backend/package-lock.json
+backend/package.json
+
+
+
+cliente/src/config/env.js
